@@ -15,4 +15,7 @@ In order to run the program you can simply clone the repository and run the prog
 
 * The `scripts` folder contains scripts used to obtain the data.
 
-* The `output` folder contains the four outputted plots after processing the data.
+* The `output` folder contains the three outputted plots after processing the data.
+
+* The `report` file contains a precise summary for the project.
+
